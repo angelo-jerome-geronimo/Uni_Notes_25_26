@@ -12,4 +12,7 @@
 - Awareness of change is not enough; confront these changes and start from the ground up.
 - A dammed river that can unleash a flash flood of change when restrictive walls are torn down.
 - Simply repairing the current flawed system only prolongs the present situation.
-- Realize that the problem did not persist before the current situation; not necessarily reliving the past, but remember
+- Weponize poetry to turn the fear and pain into a powerful drive to set changes in motion.
+- Poetry is not merely an aesthetic form of art; it guides us through the darkness, exposing truths behind lies.
+- Thoery alone is not enough; put this knowledge into practice and into action.
+- 
