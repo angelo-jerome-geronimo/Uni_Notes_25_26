@@ -15,4 +15,5 @@
 - Weponize poetry to turn the fear and pain into a powerful drive to set changes in motion.
 - Poetry is not merely an aesthetic form of art; it guides us through the darkness, exposing truths behind lies.
 - Thoery alone is not enough; put this knowledge into practice and into action.
-- 
+- Poetry is a conduit and a catalyst that converts fear and pain into fuel for revolt (for change).
+-    
