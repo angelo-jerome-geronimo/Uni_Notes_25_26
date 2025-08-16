@@ -4,4 +4,11 @@
 
 ### `BIOLOGY` is the science of `LIFE`
 | Features / Entity | Bacteria | Virus |
-
+| --- | --- | --- |
+| **Cell Structure** | Yes | No |
+| **Metabolism** | Yes | No |
+| **Reproduction** | Yes | No |
+| **Growth** | Yes | No |
+| **Response to environment** | Yes | Limited |
+| **Evolution** | Yes | Yes |
+| Considered alive? | Yes | Generally no (but debated) |
